@@ -14,7 +14,11 @@ Topics Covered:
 Commands Used:
 
 pip install django
+
 django-admin startproject myproject
+
 cd myproject
+
 python manage.py runserver
+
 python manage.py startapp myapp
