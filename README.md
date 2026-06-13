@@ -1,24 +1,14 @@
-# Django  :-  
+# Django Learning Journey
 
-# Day 1 - Django Introduction & Setup
+## Progress
 
-Topics Covered:
-- What is Django?
-- Django Features
-- Django Installation
-- Create Django Project
-- Run Development Server
-- Project Structure
-- Create First App
-
-Commands Used:
-
-pip install django
-
-django-admin startproject myproject
-
-cd myproject
-
-python manage.py runserver
-
-python manage.py startapp myapp
+✅ Day 1 - Introduction & Setup
+⬜ Day 2 - Apps, Views & URLs
+⬜ Day 3 - Templates
+⬜ Day 4 - Static Files
+⬜ Day 5 - Models
+⬜ Day 6 - Admin Panel
+⬜ Day 7 - Forms
+⬜ Day 8 - CRUD Operations
+⬜ Day 9 - Authentication
+⬜ Day 10 - Mini Project
